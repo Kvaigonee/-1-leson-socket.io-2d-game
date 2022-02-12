@@ -1,6 +1,6 @@
-# -0-leson-socket.io-2d-game
+# -1-leson-socket.io-2d-game
 
-# This repository contains the application from video #0. About creating a 2d game on socket.io.
+# This repository contains the application from video #1. About creating a 2d game on socket.io.
 
 # YouTube ITFG: https://www.youtube.com/channel/UCltar1blWquNtqeEoexdHCg
 
